@@ -11,7 +11,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: set-env-vars
+      - name: Set Environment Variables
+        id: set-env-vars
         run: echo "DATE=lordgasmic/grocery-service" >> $GITHUB_OUTPUT
       - uses: actions/checkout@v4
       - name: Set up JDK 17
