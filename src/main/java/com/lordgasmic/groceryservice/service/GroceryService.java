@@ -1,11 +1,11 @@
 package com.lordgasmic.groceryservice.service;
 
-import com.lordgasmic.grocery.models.GroceryAddRequest;
-import com.lordgasmic.grocery.models.GroceryListPayload;
-import com.lordgasmic.grocery.models.GroceryListResponse;
-import com.lordgasmic.grocery.models.Item;
 import com.lordgasmic.groceryservice.entities.GroceryEntity;
 import com.lordgasmic.groceryservice.mappers.GroceryMapper;
+import com.lordgasmic.groceryservice.models.GroceryAddRequest;
+import com.lordgasmic.groceryservice.models.GroceryListPayload;
+import com.lordgasmic.groceryservice.models.GroceryListResponse;
+import com.lordgasmic.groceryservice.models.Item;
 import com.lordgasmic.groceryservice.repositories.GroceryRepository;
 import org.springframework.stereotype.Service;
 

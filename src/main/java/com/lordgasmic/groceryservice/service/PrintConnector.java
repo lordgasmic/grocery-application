@@ -1,7 +1,7 @@
 package com.lordgasmic.groceryservice.service;
 
 import com.google.gson.Gson;
-import com.lordgasmic.grocery.models.GroceryListPayload;
+import com.lordgasmic.groceryservice.models.GroceryListPayload;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.amqp.core.Message;

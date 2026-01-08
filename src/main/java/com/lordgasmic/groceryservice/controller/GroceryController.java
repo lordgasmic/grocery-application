@@ -1,7 +1,7 @@
 package com.lordgasmic.groceryservice.controller;
 
-import com.lordgasmic.grocery.models.GroceryAddRequest;
-import com.lordgasmic.grocery.models.GroceryListResponse;
+import com.lordgasmic.groceryservice.models.GroceryAddRequest;
+import com.lordgasmic.groceryservice.models.GroceryListResponse;
 import com.lordgasmic.groceryservice.service.GroceryService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
