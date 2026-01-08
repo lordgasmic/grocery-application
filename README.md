@@ -1,1 +1,1 @@
-grocery-application
+grocery-service
