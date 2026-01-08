@@ -1,8 +1,8 @@
 package com.lordgasmic.groceryservice.mappers;
 
+import com.lordgasmic.grocery.models.GroceryAddRequest;
+import com.lordgasmic.grocery.models.GroceryListResponse;
 import com.lordgasmic.groceryservice.entities.GroceryEntity;
-import com.lordgasmic.groceryservice.models.GroceryAddRequest;
-import com.lordgasmic.groceryservice.models.GroceryListResponse;
 
 public final class GroceryMapper {
 

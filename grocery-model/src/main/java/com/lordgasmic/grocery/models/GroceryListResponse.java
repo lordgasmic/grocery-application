@@ -1,9 +1,9 @@
-package com.lordgasmic.groceryservice.models;
+package com.lordgasmic.grocery.models;
 
 import lombok.Data;
 
 @Data
-public class GroceryAddRequest {
+public class GroceryListResponse {
     private long id;
     private String department;
     private String quantity;

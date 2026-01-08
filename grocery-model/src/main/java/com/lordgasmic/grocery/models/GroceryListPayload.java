@@ -1,4 +1,4 @@
-package com.lordgasmic.groceryservice.models;
+package com.lordgasmic.grocery.models;
 
 import lombok.Builder;
 import lombok.Data;
